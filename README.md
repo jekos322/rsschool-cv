@@ -1,1 +1,1 @@
-https://jekos322.github.io/rsschool-cv/cv
+https://jekos322.github.io/rsschool-cv/
